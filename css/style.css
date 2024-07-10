@@ -227,6 +227,6 @@ footer{background: #0a0f43}
 .line{width: 120px; height: .5px;}
 .linenone{display: none;}
 .footertextnone{display: none;}
-.footertext{margin: 0 50px;}
-.footertextblok{display: flex; justify-content: space-around; align-items: center; padding-bottom:50px }
+.footertext{margin: 0 80px;}
+.footertextblok{display: flex; justify-content:center; align-items: center; padding-bottom:50px }
 }
